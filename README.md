@@ -8,6 +8,9 @@ MRIQC documentation can be found on https://mriqc.readthedocs.io/.
 
 Jobs were submitted using [ReproMan](https://reproman.readthedocs.io/en/latest/) in order to improve reproducibility. Output and error logs can be found in .reproman/jobs/local/.
 
+## Known Issues
+
+sub-06 failed due to corrupted image sub-06_ses-mri_task-AVSceneslong_run-02_bold.nii.gz and thus was not included.
 
 ## Acknowledgements
 
